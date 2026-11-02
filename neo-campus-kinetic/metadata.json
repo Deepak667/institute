@@ -1,0 +1,6 @@
+{
+  "name": "Neo-Campus Kinetic",
+  "description": "An electric, neo-brutalist tech academy and career accelerator platform featuring interactive tracks, code labs, student portal, and mentorship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
